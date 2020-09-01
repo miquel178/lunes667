@@ -2,3 +2,22 @@
 /* *** Estilos SOLO para index.html *** */
 /* *********************************** */
 
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    margin: 20px;
+}
+footer{
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
